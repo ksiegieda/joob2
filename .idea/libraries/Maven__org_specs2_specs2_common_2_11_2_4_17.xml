@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.specs2:specs2-common_2.11:2.4.17">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/specs2/specs2-common_2.11/2.4.17/specs2-common_2.11-2.4.17.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/specs2/specs2-common_2.11/2.4.17/specs2-common_2.11-2.4.17-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/specs2/specs2-common_2.11/2.4.17/specs2-common_2.11-2.4.17-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
